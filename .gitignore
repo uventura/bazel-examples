@@ -33,3 +33,5 @@
 
 bazel*
 04/dep/googletest
+
+.vscode*
