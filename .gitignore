@@ -32,3 +32,4 @@
 *.app
 
 bazel*
+04/dep/googletest

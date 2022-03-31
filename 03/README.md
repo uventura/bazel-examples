@@ -1,6 +1,5 @@
 # Include Library From Another Folder
 
-## Tips
 Look ```lib-rand/BUILD``` file and ```main/BUILD``` file.
 
 ## How to Build
