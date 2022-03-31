@@ -2,7 +2,7 @@
 
 > Hint: Read the BUILD files to understand about libraries structure.
 
-More information you can find [here](hsttps://bazel.build/tutorials/cpp-use-cases)
+More information you can find [here](https://bazel.build/tutorials/cpp-use-cases)
 
 # How to Build
 
