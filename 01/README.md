@@ -14,4 +14,4 @@
 - **Windows**: ```.\bazel-bin\main\buildname.exe```
 - **Linux**: ```./bazel-bin/main/buildname```
 
-> The binary created from build file is in ```bazel-bin``` folder`, if your build target is in a folder, in ````bazel-bin``` will be created a subfolder with its name.
+> The binary created from build file is in ```bazel-bin``` folder, if your build target is in a folder, in ```bazel-bin``` will be created a subfolder with its name.
