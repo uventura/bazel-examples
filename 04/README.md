@@ -2,7 +2,7 @@
 
 To understand how to create, look ```test/BUILD```, ```test/hello-test.cc```,```main/BUILD```.
 
-More information about you can find [here](https://google.github.io/googletest/quickstart-bazel.html)
+More information about you can find [here](https://bazel.build/tutorials/cpp-use-cases) and [here](https://google.github.io/googletest/quickstart-bazel.html)
 
 ## How to Build
 
