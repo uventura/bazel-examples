@@ -5,7 +5,7 @@
 - Paths relative to ```WORKSPACE``` file is referenced with "//" at beggining.Example:
     - ```//main``` is the main folder path.
 
-More information you can find [here](https://bazel.build/tutorials/cpp)
+More information you can find [here](https://bazel.build/tutorials/cpp).
 
 ## How to build the target?
 
