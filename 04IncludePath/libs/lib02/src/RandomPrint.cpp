@@ -2,5 +2,5 @@
 
 void ShowMessage()
 {
-    std::cout << "Hi! How Are you? :)";
+    std::cout << "Hi! How Are you? :)\n";
 }
