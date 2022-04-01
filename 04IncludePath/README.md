@@ -4,7 +4,7 @@
 
 More information you can find [here](https://bazel.build/tutorials/cpp-use-cases).
 
-Inside the ```BUILD``` file from ```libs```, you will notice a field called ```copts```, to understand the purpose [click here](https://docs.bazel.build/versions/main/be/c-cpp.html#cc_binary.copts).
+Inside the ```BUILD``` file from ```libs/lib*```, you will notice a field called ```copts```, to understand the purpose [click here](https://docs.bazel.build/versions/main/be/c-cpp.html#cc_binary.copts).
 
 # How to Build
 
