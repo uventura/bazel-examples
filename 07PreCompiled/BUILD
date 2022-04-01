@@ -5,7 +5,7 @@ cc_import(
         "dep/Python3.1/include/cpython/*.h",
         "dep/Python3.1/include/internals/*.h"
     ]),
-    static_library = "dep/Python3.1/libs/python310.lib",
+    static_library = "dep/Python3.1/inclib/python310.lib",
 )
 
 cc_library(
