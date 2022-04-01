@@ -8,7 +8,7 @@ See about [cc_import](https://bazel.build/reference/be/c-cpp#cc_import) to under
 
 > Hint 1: Don't forget that to create a static inclusion you need the headers.
 
-> Hint 2: The code used isn't the best practice to adopt, if you want to know about the subject click [here](https://bazel.build/docs/best-practices).
+> Hint 2: The code used isn't the best practice to adopt, if you want to know about the subject [click here](https://bazel.build/docs/best-practices).
 
 ## How To Build
 
