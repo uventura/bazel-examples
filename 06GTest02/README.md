@@ -1,6 +1,6 @@
 # Using GTest Without Test Mode From Bazel
 
-This way to use GTest gives you more control over the library itself.
+This way to use GTest gives you more control over the library itself, but you can lost the Bazel integration that you have with ```test``` mode.
 
 The example was made with a base interface, and the objective is to test an implementation example, that you can find in ```testing/TestSpecialMath.cc```.
 

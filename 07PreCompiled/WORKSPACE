@@ -1,0 +1,9 @@
+local_repository(
+   name = "python-dep-linux",
+   path = "/usr/lib/python3.8/lib-dynload",
+)
+
+# bind(
+#     name = "python-dep-lib",
+#     actual = "@python-dep-linux//a-package:hi",
+# )
